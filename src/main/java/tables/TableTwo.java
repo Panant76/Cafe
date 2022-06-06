@@ -1,6 +1,4 @@
-package Tables;
-
-import Tables.Table;
+package tables;
 
 public class TableTwo extends Table {
 }
